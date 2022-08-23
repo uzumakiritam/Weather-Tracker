@@ -45,7 +45,7 @@ app.get('/help', (req, res)=>{
 res.render('help', {
 title: 'HELP',
 msg: 'We are here for help',
-name: 'Ritam'
+name: 'Ritam Mandal'
 
 })
 })
